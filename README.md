@@ -1,6 +1,4 @@
-### Hi, I'm Bap 🙂
-
-### Things I code with
+### Technologies I master
 
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React-Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=white)
@@ -15,3 +13,4 @@
 ![Redis](https://img.shields.io/badge/-Redis-932B1C?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
